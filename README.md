@@ -7,7 +7,7 @@ such machine learning models.
 
 combined datasets and converted them to factors to work on using R.
 
-Called on librries for plotting graphs on the analyzed data.
+Called on libraries for plotting graphs on the analyzed data.
 Created several tables and factors containing data on the basis of passenger class, gender, age and cabins they were travelling in.
 Plotted efficient graphs showing survivability based on all the above factors.
 
